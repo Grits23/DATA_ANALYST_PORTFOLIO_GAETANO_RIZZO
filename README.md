@@ -47,7 +47,7 @@ My goal is to bridge the gap between behavioral understanding and data-driven de
 ### 💬 Contact
 
 📧 **Email:** gaetanorizzo@yahoo.com  
-🔗 **LinkedIn:** [linkedin.com/in/gaetanorizzo](https://linkedin.com/in/gaetanorizzo)
+🔗 **LinkedIn:** linkedin.com/in/gaetano-rizzo
 
 
 ---
@@ -96,7 +96,7 @@ Il mio obiettivo è colmare il divario tra la comprensione del comportamento uma
 ### 💬 Contatti
 
 📧 **Email:** gaetano.rizzo.research@gmail.com  
-🔗 **LinkedIn:** [linkedin.com/in/gaetanorizzo](https://linkedin.com/in/gaetanorizzo)
+🔗 **LinkedIn:** linkedin.com/in/gaetano-rizzo
 
 
 ---
