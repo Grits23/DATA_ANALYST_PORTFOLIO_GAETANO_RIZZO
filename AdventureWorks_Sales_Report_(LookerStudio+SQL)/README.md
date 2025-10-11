@@ -237,7 +237,5 @@ JOIN dimgeography AS G
 
 ---
 
-Ora è perfetto per GitHub: i blocchi SQL restano formattati, mentre il resto mantiene titoli, emoji e tabelle correttamente.
-Vuoi che ti aggiunga anche una versione **miniatura del banner Looker Studio** (quella che abbiamo creato) all’inizio, sopra il titolo?
 
 
