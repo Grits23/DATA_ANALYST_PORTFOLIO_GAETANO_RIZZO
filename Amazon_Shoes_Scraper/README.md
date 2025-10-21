@@ -27,45 +27,6 @@ The goal was to evaluate the **product variety, pricing strategy**, and **market
 
 ---
 
-### 🧮 Script Used
-
-> The following snippet shows the scraping logic implemented in Python for each brand and color combination.
-
-```python
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
-
-brands = ["geox", "clarks", "timberland", "lumberjack"]
-colors = ["nero", "marrone", "beige", "rosso"]
-
-data = []
-
-for brand in brands:
-    for color in colors:
-        url = f"https://www.amazon.it/s?k={brand}+scarpe+{color}"
-        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        items = soup.find_all("div", {"data-component-type": "s-search-result"})
-        for item in items:
-            name = item.h2.text.strip()
-            price = item.find("span", {"class": "a-price-whole"})
-            rating = item.find("span", {"class": "a-icon-alt"})
-            data.append({
-                "brand": brand,
-                "color": color,
-                "name": name,
-                "price": price.text if price else None,
-                "rating": rating.text if rating else None
-            })
-
-df = pd.DataFrame(data)
-df.to_csv("amazon_4brands_shoes.csv", index=False)
-```
-
----
-
 ### 📊 Key Analytical Questions
 
 1. In which **categories** are we (Geox) present compared to competitors?
@@ -133,45 +94,6 @@ L’obiettivo è valutare **ampiezza dell’offerta**, **strategia di prezzo** e
   * Genere → Donna
   * Colori → Nero, Marrone, Beige, Rosso
   * Marche → Geox, Clarks, Timberland, Lumberjack
-
----
-
-### 🧮 Codice Utilizzato
-
-> Estratto della logica di scraping per combinare marche e colori, con salvataggio dei dati in CSV.
-
-```python
-import requests
-from bs4 import BeautifulSoup
-import pandas as pd
-
-brands = ["geox", "clarks", "timberland", "lumberjack"]
-colors = ["nero", "marrone", "beige", "rosso"]
-
-data = []
-
-for brand in brands:
-    for color in colors:
-        url = f"https://www.amazon.it/s?k={brand}+scarpe+{color}"
-        response = requests.get(url, headers={'User-Agent': 'Mozilla/5.0'})
-        soup = BeautifulSoup(response.text, "html.parser")
-
-        items = soup.find_all("div", {"data-component-type": "s-search-result"})
-        for item in items:
-            name = item.h2.text.strip()
-            price = item.find("span", {"class": "a-price-whole"})
-            rating = item.find("span", {"class": "a-icon-alt"})
-            data.append({
-                "brand": brand,
-                "color": color,
-                "name": name,
-                "price": price.text if price else None,
-                "rating": rating.text if rating else None
-            })
-
-df = pd.DataFrame(data)
-df.to_csv("amazon_4brands_shoes.csv", index=False)
-```
 
 ---
 
