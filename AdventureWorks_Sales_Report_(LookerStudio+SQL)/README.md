@@ -23,7 +23,6 @@ The goal was to create a **dynamic BI dashboard** that integrates SQL-based data
 * **Database:** AdventureWorksDW2019
 * **Connection Type:** Custom SQL query
 * **Visualization Tool:** Looker Studio
-* **Dataset Theme:** Reseller sales data (FactResellerSales)
 
 ---
 
@@ -113,8 +112,8 @@ JOIN dimgeography AS G
 
 ### 🔗 Resources
 
-* 📊 Dashboard: *Interactive Looker Studio Report (SQL connection)*
-* 🧮 Query file: [`LOOKER_ADW_QUERY.sql`](./LOOKER_ADW_QUERY.sql)
+* 🧮 Link: lookerstudio.google.com/reporting/718ff846-6291-410e-878f-60a3ba92c881
+* 🧮 DW Model: [`AW_Diagram_Model.png`](./AW_Diagram_Model.png)
 * 📘 Dataset: *AdventureWorksDW2019 (Microsoft)*
 * 🎓 Project by *Gaetano Rizzo* — Epicode Data Analyst Bootcamp (DAPT0125)
 
@@ -226,10 +225,10 @@ JOIN dimgeography AS G
 
 ### 🔗 Risorse
 
-* 📊 Dashboard: *Report interattivo Looker Studio (connessione SQL)*
-* 🧮 File query: [`LOOKER_ADW_QUERY.sql`](./LOOKER_ADW_QUERY.sql)
+* 🧮 Link: lookerstudio.google.com/reporting/718ff846-6291-410e-878f-60a3ba92c881
+* 🧮 DW Model: [`AW_Diagram_Model.png`](./AW_Diagram_Model.png)
 * 📘 Dataset: *AdventureWorksDW2019 (Microsoft)*
-* 🎓 Progetto realizzato da *Gaetano Rizzo* — Epicode Data Analyst Bootcamp (DAPT0125)
+* 🎓 Project by *Gaetano Rizzo* — Epicode Data Analyst Bootcamp (DAPT0125)
 
 ---
 
