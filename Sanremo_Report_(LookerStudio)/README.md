@@ -63,9 +63,7 @@ Dataset manually curated and cleaned for consistency across decades.
 ---
 
 ### 🔗 Resources  
-- 📊 Dashboard: *Looker Studio Interactive Report* (on request or via shared link)  
-- 🧮 Data file: [`Esame_Looker_GaetanoRizzo.xlsx`](./Esame_Looker_GaetanoRizzo.xlsx)  
-- 🎓 Project by *Gaetano Rizzo* — Epicode Data Analyst Bootcamp (DAPT0125)
+- 📊 Dashboard: *Looker Studio Interactive Report* /lookerstudio.google.com/reporting/fdaa0350-51a1-4da7-8b59-4c279f5a8bdf  
 
 ---
 
@@ -127,9 +125,7 @@ L’obiettivo è integrare **data storytelling e analisi culturale**, trasforman
 ---
 
 ### 🔗 Risorse  
-- 📊 Dashboard: *Report interattivo Looker Studio* (link su richiesta)  
-- 🧮 File dati: [`Esame_Looker_GaetanoRizzo.xlsx`](./Esame_Looker_GaetanoRizzo.xlsx)  
-- 🎓 Progetto realizzato da *Gaetano Rizzo* — Epicode Data Analyst Bootcamp (DAPT0125)
+- 📊 Dashboard: *Report interattivo Looker Studio* /lookerstudio.google.com/reporting/fdaa0350-51a1-4da7-8b59-4c279f5a8bdf 
 
 ---
 
