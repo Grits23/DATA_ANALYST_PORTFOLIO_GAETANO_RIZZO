@@ -69,8 +69,8 @@ The goal was to evaluate the **product variety, pricing strategy**, and **market
 ### 🔗 Resources
 
 * 📘 Notebook: [`AmazonScraper_Shoes.ipynb`](./AmazonScraper_Shoes.ipynb)
-* 📊 Raw Data: [`amazon_4marche_completa_orig.csv`](./amazon_4marche_completa_orig.csv)
-* 🎞 Presentation: [`Presentazione_BW_Geox.pptx`](./Presentazione_BW_Geox.pptx)
+* 📊 Analysis: [`BW_Analisi_Scarpe.ipynb`](.Amazon_Shoes_Scraper/BW_Analisi_Scarpe.ipynb)
+* 🎞 Presentation: [`AmazonScraperShoes_pdf.pdf`](./AmazonScraperShoes_pdf.pdf)
 
 ---
 
@@ -139,8 +139,8 @@ L’obiettivo è valutare **ampiezza dell’offerta**, **strategia di prezzo** e
 ### 🔗 Risorse
 
 * 📘 Notebook: [`AmazonScraper_Shoes.ipynb`](./AmazonScraper_Shoes.ipynb)
-* 📊 Dati grezzi: [`amazon_4marche_completa_orig.csv`](./amazon_4marche_completa_orig.csv)
-* 🎞 Presentazione: [`Presentazione_BW_Geox.pptx`](./Presentazione_BW_Geox.pptx)
+* 📊 Analysis: [`BW_Analisi_Scarpe.ipynb`](.Amazon_Shoes_Scraper/BW_Analisi_Scarpe.ipynb)
+* 🎞 Presentation: [`AmazonScraperShoes_pdf.pdf`](./AmazonScraperShoes_pdf.pdf)
 
 ---
 
