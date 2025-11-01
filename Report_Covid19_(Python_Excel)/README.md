@@ -78,18 +78,6 @@ It includes two complementary analyses:
 | **Stringency to ICU Ratio**      | Government restriction index / ICU load         |
 | **Δ Cost Index**                 | Cost per ICU bed vs. standard bed               |
 
----
-
-### 🧾 Repository Structure
-
-```
-📂 Report_COVID19/
-├── 📘 EPICODE_PYTHON_DAPT0125_M4_Python_Esame_Finale_Gaetano_Rizzo.ipynb
-│     └─ Global Analysis (Our World in Data)
-├── 📊 REPORT_BUILDWEEK_M2_Team5.pdf
-│     └─ XYFarma Report (Italian Regions)
-└── 📄 README.md
-```
 
 ---
 
@@ -189,18 +177,6 @@ Sono state realizzate due analisi complementari:
 | **Rapporto Restrizioni/ICU**        | Indice di restrizione / pazienti ICU                 |
 | **Indice Δ Costi**                  | Costo medio giornaliero ICU vs posto letto ordinario |
 
----
-
-### 🧾 Struttura della Repository
-
-```
-📂 Report_COVID19/
-├── 📘 EPICODE_PYTHON_DAPT0125_M4_Python_Esame_Finale_Gaetano_Rizzo.ipynb
-│     └─ Analisi Globale (Our World in Data)
-├── 📊 REPORT_BUILDWEEK_M2_Team5.pdf
-│     └─ Report XYFarma (dati italiani)
-└── 📄 README.md
-```
 
 ---
 
