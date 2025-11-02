@@ -12,21 +12,6 @@ This repository gathers my most representative projects in **data analytics**, *
 
 ---
 
-### 📂 Projects Overview
-
-| Project | Description | Tools & Skills | Link |
-|----------|--------------|----------------|------|
-| **Behavioral Finance Dashboard** | Power BI report analyzing behavioral biases (Disposition, Overtrading, Herding, Home Bias) in retail investors from the FAR-Trans dataset (2018–2021), integrated with World Bank macroeconomic data. | Power BI, DAX, Data Modeling, Behavioral Analytics | [View Folder](./Behavioral_Finance_Dashboard) |
-| **Olist Project** | Power BI report exploring marketplace data to identify purchase patterns, logistic performance, payment behaviors, and customer experience insights. | Power BI, Data Cleaning, DAX, Visualization | [GitHub Repo](https://github.com/Grits23/EPICODE_POWERBI_DAPT_0125) |
-| **GR Toys Data Warehouse** | Design and implementation of a complete Data Warehouse (conceptual, logical, and physical) in MySQL, with KPI visualization in Excel. | MySQL, SQL Queries, Excel Dashboards | [View Folder](./GR_Toys_Data_Warehouse) |
-| **Amazon Shoes Scraper** | Python web scraper for market analysis between a selected brand (Geox) and its competitors, including data visualization and presentation. | Python, BeautifulSoup, Pandas, Data Visualization | [View Folder](./Amazon_Shoes_Scraper) |
-| **Dashboard Strutture Ricettive (Marche)** | Interactive Excel dashboard showing accommodations in the Marche region, with filters by city and category, price averages, and search functions. | Excel, Power Pivot, Data Modeling | [View Folder](./Dashboard_Strutture_Ricettive) |
-| **Bike Shop Dashboard** | Looker Studio report offering a full overview of business performance through KPIs, maps, and trend visualization. | Looker Studio, Google Sheets, Data Visualization | [View Folder](./Bike_Shop_Dashboard) |
-| **Sanremo Report** | Looker Studio report exploring descriptive statistics and trends across the history of the Sanremo Festival and its main artists. | Looker Studio, Data Storytelling | [View Folder](./Sanremo_Report) |
-| **COVID-19 Report** | Data analysis of global cases and vaccination trends based on *Our World in Data* dataset, combining Python analytics and Excel reporting. | Python, Pandas, Excel | [View Folder](./Report_Covid19) |
-
----
-
 ### 🧰 Tools & Skills
 
 **Languages:** Python (Pandas, BeautifulSoup, Matplotlib), SQL (MySQL), DAX  
@@ -36,6 +21,49 @@ This repository gathers my most representative projects in **data analytics**, *
 **Soft Skills:** Research mindset, Analytical reasoning, Communication of complex data
 
 ---
+
+### 📊 Project Summary
+| Project                               | Tools               | Dataset / Source                            | Focus                             | Highlights                                      |
+| ------------------------------------- | ------------------- | ------------------------------------------- | --------------------------------- | ----------------------------------------------- |
+| **GR Behavioral Finance BI Solution** | Power BI            | FAR-Trans (retail investors) + World Bank   | Behavioral biases, macroeconomics | Bias quantification & dashboard prototype       |
+| **Olist Marketplace**                 | Power BI            | Olist E-Commerce Dataset                    | Marketplace analytics             | Purchases • Logistics • Payments • CX           |
+| **Amazon Shoes Scraper**              | Python              | Amazon .it scraped data                     | Competitive analysis              | Price & rating comparison (Geox vs competitors) |
+| **GR Toys DW**                        | SQL + Excel         | Synthetic retail data                       | Data warehouse design             | Full E/R model + analytic views                 |
+| **Report Covid-19**                   | Python + Excel      | Our World in Data + Italian Health Ministry | Epidemiology & policy impact      | OWID EDA + Excel business report                |
+| **Dashboard Strutture Ricettive**     | Excel (Power Pivot) | Marche Tourism Open Data                    | Tourism & hospitality             | Interactive filters by city & category          |
+| **Sanremo Report**                    | Looker Studio       | Historical Festival Data                    | Cultural analytics                | 70+ editions of Sanremo Festival                |
+
+--- 
+
+### 📂 Projects Index
+
+📈 GR Behavioral Finance BI Solution (Power BI)
+Behavioral analytics on retail investors using the FAR-Trans dataset and World Bank indicators.
+➜ Open folder
+
+🛒 Olist Marketplace (Power BI)
+Marketplace data analysis: purchases, logistics, payments, and customer experience.
+➜ Open folder
+
+👠 Amazon Shoes Scraper (Python)
+Web scraping + competitive analysis (Geox vs competitors) from Amazon .it.
+➜ Open folder
+
+🧸 GR Toys DW (SQL + Excel)
+Complete Data Warehouse project in MySQL with conceptual, logical, and physical modeling plus analytic queries.
+➜ Open folder
+
+🧬 Report Covid-19 (Python + Excel)
+Global analysis (Our World in Data) in Python and Italian business case in Excel.
+➜ Open folder
+
+🏨 Dashboard Strutture Ricettive (Excel)
+Interactive Excel dashboard of Marche Region hospitality: filter by city & category.
+➜ Open folder
+
+🎵 Sanremo Report (Looker Studio)
+Data storytelling on 70+ editions of Sanremo Festival — artists, hosts, songs, stats.
+➜ Open folder
 
 ### 📖 About Me
 
@@ -61,21 +89,6 @@ Questa repository raccoglie i miei progetti più rappresentativi in **data analy
 
 ---
 
-### 📂 Panoramica dei Progetti
-
-| Progetto | Descrizione | Strumenti e Competenze | Link |
-|-----------|--------------|------------------------|------|
-| **Behavioral Finance Dashboard** | Report Power BI che analizza i bias comportamentali (Disposition, Overtrading, Herding, Home Bias) negli investitori retail del dataset FAR-Trans (2018–2021), integrando dati macroeconomici della World Bank. | Power BI, DAX, Behavioral Analytics | [Cartella](./Behavioral_Finance_Dashboard) |
-| **Olist Project** | Report Power BI che analizza i dati del marketplace Olist per individuare pattern d’acquisto, performance logistiche e comportamenti di pagamento. | Power BI, DAX, Data Visualization | [GitHub Repo](https://github.com/Grits23/EPICODE_POWERBI_DAPT_0125) |
-| **GR Toys Data Warehouse** | Progettazione e implementazione di un Data Warehouse (modello concettuale, logico e fisico) in MySQL, con visualizzazione KPI in Excel. | MySQL, SQL, Excel Dashboard | [Cartella](./GR_Toys_Data_Warehouse) |
-| **Amazon Shoes Scraper** | Web scraper in Python per l’analisi competitiva tra Geox e i principali marchi concorrenti, con visualizzazione e presentazione dei dati. | Python, BeautifulSoup, Pandas | [Cartella](./Amazon_Shoes_Scraper) |
-| **Dashboard Strutture Ricettive (Marche)** | Dashboard Excel interattiva per esplorare le strutture ricettive della Regione Marche filtrando per città e categoria. | Excel, Power Pivot, Data Modeling | [Cartella](./Dashboard_Strutture_Ricettive) |
-| **Bike Shop Dashboard** | Report Looker Studio che analizza KPI, mappe e indicatori di performance del business. | Looker Studio, Google Sheets | [Cartella](./Bike_Shop_Dashboard) |
-| **Sanremo Report** | Report Looker Studio per esplorare i dati e le statistiche sulle canzoni e sui protagonisti della storia del Festival di Sanremo. | Looker Studio, Data Storytelling | [Cartella](./Sanremo_Report) |
-| **COVID-19 Report** | Analisi dei casi e delle vaccinazioni nel mondo basata sul dataset *Our World in Data*, con elaborazioni Python e report Excel. | Python, Pandas, Excel | [Cartella](./Report_Covid19) |
-
----
-
 ### 🧰 Strumenti e Competenze
 
 **Linguaggi:** Python (Pandas, BeautifulSoup, Matplotlib), SQL (MySQL), DAX  
@@ -83,6 +96,51 @@ Questa repository raccoglie i miei progetti più rappresentativi in **data analy
 **Data Modeling:** Schema concettuale, logico e fisico  
 **Analisi Comportamentale:** Bias cognitivi, Decision-making, Insight data-driven  
 **Competenze trasversali:** Rigore scientifico, Analisi critica, Comunicazione dei risultati
+
+---
+
+📊 Sintesi Progetti
+| Progetto                              | Strumenti           | Dataset / Fonte           | Focus                           | Punti Chiave                               |
+| ------------------------------------- | ------------------- | ------------------------- | ------------------------------- | ------------------------------------------ |
+| **GR Behavioral Finance BI Solution** | Power BI            | FAR-Trans + World Bank    | Bias comportamentali • Economia | Misura bias e dashboard prototipo          |
+| **Olist Marketplace**                 | Power BI            | Olist E-Commerce Dataset  | Analisi vendite e logistica     | Acquisti • Pagamenti • Customer Experience |
+| **Amazon Shoes Scraper**              | Python              | Dati Amazon (it) scraped  | Analisi competitiva             | Prezzi e rating Geox vs competitor         |
+| **GR Toys DW**                        | SQL + Excel         | Dati retail sintetici     | Data Warehouse                  | Schema E/R + Query Analitiche              |
+| **Report Covid-19**                   | Python + Excel      | OWID + Ministero Salute   | Analisi pandemia e vaccini      | Analisi globale + report aziendale         |
+| **Dashboard Strutture Ricettive**     | Excel (Power Pivot) | Open Data Marche          | Turismo e ricettività           | Filtri interattivi per città e categoria   |
+| **Sanremo Report**                    | Looker Studio       | Archivio Festival Sanremo | Analisi culturale               | 70+ edizioni • Artisti e canzoni           |
+
+---
+
+📂 Indice Progetti
+
+📈 GR Behavioral Finance BI Solution (Power BI)
+Analisi dei bias comportamentali negli investitori retail (FAR-Trans + World Bank).
+➜ Apri cartella
+
+🛒 Olist Marketplace (Power BI)
+Analisi marketplace: acquisti, logistica, pagamenti, CX.
+➜ Apri cartella
+
+👠 Amazon Shoes Scraper (Python)
+Web scraping e analisi competitiva (Geox vs competitor).
+➜ Apri cartella
+
+🧸 GR Toys DW (SQL + Excel)
+Data Warehouse MySQL completo: schema concettuale, logico, fisico + query analitiche.
+➜ Apri cartella
+
+🧬 Report Covid-19 (Python + Excel)
+Analisi globale (OWID) + caso italiano (Ministero Salute).
+➜ Apri cartella
+
+🏨 Dashboard Strutture Ricettive (Excel)
+Dashboard interattiva per la Regione Marche, filtrabile per città e categoria.
+➜ Apri cartella
+
+🎵 Sanremo Report (Looker Studio)
+Analisi culturale su 70+ edizioni del Festival di Sanremo.
+➜ Apri cartella
 
 ---
 
