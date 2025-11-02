@@ -39,31 +39,31 @@ This repository gathers my most representative projects in **data analytics**, *
 
 📈 GR Behavioral Finance BI Solution (Power BI)
 Behavioral analytics on retail investors using the FAR-Trans dataset and World Bank indicators.
-➜ Open folder
+➜ [Open folder](./GR_Behavioral_Finance_BI_Solution_(PowerBI)/)
 
 🛒 Olist Marketplace (Power BI)
 Marketplace data analysis: purchases, logistics, payments, and customer experience.
-➜ Open folder
+➜ [Open folder](./Olist_Marketplace_(PowerBI)/)
 
 👠 Amazon Shoes Scraper (Python)
 Web scraping + competitive analysis (Geox vs competitors) from Amazon .it.
-➜ Open folder
+➜ [Open folder](/Amazon_Shoes_Scraper_(Python)/)
 
 🧸 GR Toys DW (SQL + Excel)
 Complete Data Warehouse project in MySQL with conceptual, logical, and physical modeling plus analytic queries.
-➜ Open folder
+➜ [Open folder](/GR_Toys_DW_(SQL-Excel)/)
 
 🧬 Report Covid-19 (Python + Excel)
 Global analysis (Our World in Data) in Python and Italian business case in Excel.
-➜ Open folder
+➜ [Open folder](/Report_Covid19_(Python_Excel)/)
 
 🏨 Dashboard Strutture Ricettive (Excel)
 Interactive Excel dashboard of Marche Region hospitality: filter by city & category.
-➜ Open folder
+➜ [Open folder](/Dashboard_Strutture_Ricettive_(Excel)/)
 
 🎵 Sanremo Report (Looker Studio)
 Data storytelling on 70+ editions of Sanremo Festival — artists, hosts, songs, stats.
-➜ Open folder
+➜ [Open folder](/Sanremo_Report_(LookerStudio)/)
 
 ### 📖 About Me
 
@@ -75,7 +75,7 @@ My goal is to bridge the gap between behavioral understanding and data-driven de
 ### 💬 Contact
 
 📧 **Email:** gaetanorizzo@yahoo.com  
-🔗 **LinkedIn:** linkedin.com/in/gaetano-rizzo
+🔗 **LinkedIn:** [linkedin.com/in/gaetano-rizzo](linkedin.com/in/gaetano-rizzo)
 
 
 ---
@@ -153,8 +153,8 @@ Il mio obiettivo è colmare il divario tra la comprensione del comportamento uma
 
 ### 💬 Contatti
 
-📧 **Email:** gaetanorizzo@yahoo.com
-🔗 **LinkedIn:** linkedin.com/in/gaetano-rizzo
+📧 **Email:** gaetanorizzo@yahoo.com  
+🔗 **LinkedIn:** [linkedin.com/in/gaetano-rizzo](linkedin.com/in/gaetano-rizzo)
 
 
 ---
