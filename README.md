@@ -31,39 +31,39 @@ This repository gathers my most representative projects in **data analytics**, *
 | **GR Toys DW**                        | SQL + Excel         | Synthetic retail data                       | Data warehouse design             | Full E/R model + analytic views                 |
 | **Report Covid-19**                   | Python + Excel      | Our World in Data + Italian Health Ministry | Epidemiology & policy impact      | OWID EDA + Excel business report                |
 | **Dashboard Strutture Ricettive**     | Excel (Power Pivot) | Marche Tourism Open Data                    | Tourism & hospitality             | Interactive filters by city & category          |
+| **AdventureWorks Sales Report**       | Looker Studio + SQL | AdventureWorksDW                            |Sales & profitability analysis     | Regional & category insights via SQL connection |
 | **Sanremo Report**                    | Looker Studio       | Historical Festival Data                    | Cultural analytics                | 70+ editions of Sanremo Festival                |
+
 
 --- 
 
 ### 📂 Projects Index
 
-📈 GR Behavioral Finance BI Solution (Power BI)
+📈 [GR Behavioral Finance BI Solution (Power BI)](./GR_Behavioral_Finance_BI_Solution_(PowerBI)/)
 Behavioral analytics on retail investors using the FAR-Trans dataset and World Bank indicators.
-➜ [Open folder](./GR_Behavioral_Finance_BI_Solution_(PowerBI)/)
 
-🛒 Olist Marketplace (Power BI)
+🛒 [Olist Marketplace (Power BI)](./Olist_Marketplace_(PowerBI)/)
 Marketplace data analysis: purchases, logistics, payments, and customer experience.
-➜ [Open folder](./Olist_Marketplace_(PowerBI)/)
 
-👠 Amazon Shoes Scraper (Python)
+👠 [Amazon Shoes Scraper (Python)](/Amazon_Shoes_Scraper_(Python)/)
 Web scraping + competitive analysis (Geox vs competitors) from Amazon .it.
-➜ [Open folder](/Amazon_Shoes_Scraper_(Python)/)
 
-🧸 GR Toys DW (SQL + Excel)
+🧸 [GR Toys DW (SQL + Excel)](/GR_Toys_DW_(SQL-Excel)/)
 Complete Data Warehouse project in MySQL with conceptual, logical, and physical modeling plus analytic queries.
-➜ [Open folder](/GR_Toys_DW_(SQL-Excel)/)
 
-🧬 Report Covid-19 (Python + Excel)
+🧬 [Report Covid-19 (Python + Excel)](/Report_Covid19_(Python_Excel)/)
 Global analysis (Our World in Data) in Python and Italian business case in Excel.
-➜ [Open folder](/Report_Covid19_(Python_Excel)/)
 
-🏨 Dashboard Strutture Ricettive (Excel)
+🏨 [Dashboard Strutture Ricettive (Excel)](/Dashboard_Strutture_Ricettive_(Excel)/)
 Interactive Excel dashboard of Marche Region hospitality: filter by city & category.
-➜ [Open folder](/Dashboard_Strutture_Ricettive_(Excel)/)
 
-🎵 Sanremo Report (Looker Studio)
+🚴 [AdventureWorks Sales Report (Looker Studio + SQL)](/AdventureWorks_Sales_Report_(LookerStudio+SQL)/)
+BI project connecting AdventureWorksDW via SQL for sales, profit, and category insights.
+
+🎵 [Sanremo Report (Looker Studio)](/Sanremo_Report_(LookerStudio)/)
 Data storytelling on 70+ editions of Sanremo Festival — artists, hosts, songs, stats.
-➜ [Open folder](/Sanremo_Report_(LookerStudio)/)
+
+---
 
 ### 📖 About Me
 
@@ -108,39 +108,36 @@ Questa repository raccoglie i miei progetti più rappresentativi in **data analy
 | **GR Toys DW**                        | SQL + Excel         | Dati retail sintetici     | Data Warehouse                  | Schema E/R + Query Analitiche              |
 | **Report Covid-19**                   | Python + Excel      | OWID + Ministero Salute   | Analisi pandemia e vaccini      | Analisi globale + report aziendale         |
 | **Dashboard Strutture Ricettive**     | Excel (Power Pivot) | Open Data Marche          | Turismo e ricettività           | Filtri interattivi per città e categoria   |
+| **AdventureWorks Sales Report**       | Looker Studio + SQL | AdventureWorksDW          | Analisi vendite e redditività   | Insight regionali e per categoria          |
 | **Sanremo Report**                    | Looker Studio       | Archivio Festival Sanremo | Analisi culturale               | 70+ edizioni • Artisti e canzoni           |
 
 ---
 
 📂 Indice Progetti
 
-📈 GR Behavioral Finance BI Solution (Power BI)
+📈 [GR Behavioral Finance BI Solution (Power BI)](./GR_Behavioral_Finance_BI_Solution_(PowerBI)/)
 Analisi dei bias comportamentali negli investitori retail (FAR-Trans + World Bank).
-➜ Apri cartella
 
-🛒 Olist Marketplace (Power BI)
-Analisi marketplace: acquisti, logistica, pagamenti, CX.
-➜ Apri cartella
+🛒 [Olist Marketplace (Power BI)](./Olist_Marketplace_(PowerBI)/)
+Analisi marketplace: acquisti, logistica, pagamenti, customer experience.
 
-👠 Amazon Shoes Scraper (Python)
-Web scraping e analisi competitiva (Geox vs competitor).
-➜ Apri cartella
+👠 [Amazon Shoes Scraper (Python)](/Amazon_Shoes_Scraper_(Python)/)
+Web scraping e analisi competitiva (Geox vs competitor) su Amazon.it.
 
-🧸 GR Toys DW (SQL + Excel)
+🧸 [GR Toys DW (SQL + Excel)](/GR_Toys_DW_(SQL-Excel)/)
 Data Warehouse MySQL completo: schema concettuale, logico, fisico + query analitiche.
-➜ Apri cartella
 
-🧬 Report Covid-19 (Python + Excel)
-Analisi globale (OWID) + caso italiano (Ministero Salute).
-➜ Apri cartella
+🧬 [Report Covid-19 (Python + Excel)](/Report_Covid19_(Python_Excel)/)
+Analisi globale (OWID) + caso italiano (Ministero della Salute).
 
-🏨 Dashboard Strutture Ricettive (Excel)
+🏨 [Dashboard Strutture Ricettive (Excel)](/Dashboard_Strutture_Ricettive_(Excel)/)
 Dashboard interattiva per la Regione Marche, filtrabile per città e categoria.
-➜ Apri cartella
 
-🎵 Sanremo Report (Looker Studio)
+🚴 [AdventureWorks Sales Report (Looker Studio + SQL)](/AdventureWorks_Sales_Report_(LookerStudio+SQL)/)
+Report BI collegato al database AdventureWorksDW per analisi di vendite e profitti.
+
+🎵 [Sanremo Report (Looker Studio)](/Sanremo_Report_(LookerStudio)/)
 Analisi culturale su 70+ edizioni del Festival di Sanremo.
-➜ Apri cartella
 
 ---
 
