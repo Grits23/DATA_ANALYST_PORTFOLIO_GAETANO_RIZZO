@@ -1,159 +1,229 @@
-# 🧠 Gaetano Rizzo — Behavioral & Data Analyst Portfolio  
-*(English 🇬🇧 / Italiano 🇮🇹)*
+# Gaetano Rizzo | Data Analyst Portfolio
+
+## Data Analyst | Ph.D. | SQL · Python · Power BI · Excel | Behavioral Analytics
+
+Welcome to my data analytics portfolio.
+
+I am a **Data Analyst with a background in Psychology and a Ph.D. in Cognitive Sciences**.  
+I combine technical skills in **SQL, Python, Power BI and Excel** with research-based analytical thinking to transform complex data into clear, actionable insights.
+
+This portfolio showcases projects in **business intelligence, behavioral analytics, SQL data modeling, Python-based data collection, Excel reporting and dashboard design**.
 
 ---
 
-## 🇬🇧 English Version
+## Portfolio Navigation
 
-Welcome to my professional portfolio!  
-I’m a **Psychologist, Ph.D. in Cognitive Sciences, and Data Analyst**, passionate about understanding how data can reveal the mechanisms behind human decision-making and behavior.  
-
-This repository gathers my most representative projects in **data analytics**, **behavioral finance**, and **business intelligence**, combining technical rigor with a human-centered perspective.
-
----
-
-### 🧰 Tools & Skills
-
-**Languages:** Python (Pandas, BeautifulSoup, Matplotlib), SQL (MySQL), DAX  
-**BI & Visualization:** Power BI, Excel Power Pivot, Looker Studio  
-**Data Modeling:** Conceptual, Logical, Physical schemas  
-**Behavioral Analytics:** Cognitive Biases, Decision-Making, Data-Driven Insights  
-**Soft Skills:** Research mindset, Analytical reasoning, Communication of complex data
+- [Core Skills](#core-skills)
+- [Featured Projects](#featured-projects)
+- [Full Project Index](#full-project-index)
+- [Repository Structure](#repository-structure)
+- [Next Improvements](#next-improvements)
+- [Contact](#contact)
 
 ---
 
-### 📊 Project Summary
-| Project                               | Tools               | Dataset / Source                            | Focus                             | Highlights                                      |
-| ------------------------------------- | ------------------- | ------------------------------------------- | --------------------------------- | ----------------------------------------------- |
-| **GR Behavioral Finance BI Solution** | Power BI            | FAR-Trans (retail investors) + World Bank   | Behavioral biases, macroeconomics | Bias quantification & dashboard prototype       |
-| **Olist Marketplace**                 | Power BI            | Olist E-Commerce Dataset                    | Marketplace analytics             | Purchases • Logistics • Payments • CX           |
-| **Amazon Shoes Scraper**              | Python              | Amazon .it scraped data                     | Competitive analysis              | Price & rating comparison (Geox vs competitors) |
-| **GR Toys DW**                        | SQL + Excel         | Synthetic retail data                       | Data warehouse design             | Full E/R model + analytic views                 |
-| **Report Covid-19**                   | Python + Excel      | Our World in Data + Italian Health Ministry | Epidemiology & policy impact      | OWID EDA + Excel business report                |
-| **Dashboard Strutture Ricettive**     | Excel (Power Pivot) | Marche Tourism Open Data                    | Tourism & hospitality             | Interactive filters by city & category          |
-| **AdventureWorks Sales Report**       | Looker Studio + SQL | AdventureWorksDW                            |Sales & profitability analysis     | Regional & category insights via SQL connection |
-| **Sanremo Report**                    | Looker Studio       | Historical Festival Data                    | Cultural analytics                | 70+ editions of Sanremo Festival                |
+## Core Skills
 
+**Languages & Querying**  
+SQL · Python · DAX
 
---- 
+**Business Intelligence & Reporting**  
+Power BI · Excel · Power Query · Power Pivot · Looker Studio
 
-### 📂 Projects Index
+**Data Workflow**  
+Data cleaning · Data modeling · Exploratory Data Analysis · KPI design · Dashboard development · Data storytelling
 
-📈 [GR Behavioral Finance BI Solution (Power BI)](./GR_Behavioral_Finance_BI_Solution_(PowerBI)/)
-Behavioral analytics on retail investors using the FAR-Trans dataset and World Bank indicators.
-
-🛒 [Olist Marketplace (Power BI)](./Olist_Marketplace_(PowerBI)/)
-Marketplace data analysis: purchases, logistics, payments, and customer experience.
-
-👠 [Amazon Shoes Scraper (Python)](/Amazon_Shoes_Scraper_(Python)/)
-Web scraping + competitive analysis (Geox vs competitors) from Amazon .it.
-
-🧸 [GR Toys DW (SQL + Excel)](/GR_Toys_DW_(SQL-Excel)/)
-Complete Data Warehouse project in MySQL with conceptual, logical, and physical modeling plus analytic queries.
-
-🧬 [Report Covid-19 (Python + Excel)](/Report_Covid19_(Python_Excel)/)
-Global analysis (Our World in Data) in Python and Italian business case in Excel.
-
-🏨 [Dashboard Strutture Ricettive (Excel)](/Dashboard_Strutture_Ricettive_(Excel)/)
-Interactive Excel dashboard of Marche Region hospitality: filter by city & category.
-
-🚴 [AdventureWorks Sales Report (Looker Studio + SQL)](/AdventureWorks_Sales_Report_(LookerStudio+SQL)/)
-BI project connecting AdventureWorksDW via SQL for sales, profit, and category insights.
-
-🎵 [Sanremo Report (Looker Studio)](/Sanremo_Report_(LookerStudio)/)
-Data storytelling on 70+ editions of Sanremo Festival — artists, hosts, songs, stats.
+**Domain Strengths**  
+Behavioral analytics · Business intelligence · Research data · Decision-making analysis · Customer and market analytics
 
 ---
 
-### 📖 About Me
+## Technical Stack
 
-I combine a background in **psychology and cognitive neuroscience** with hands-on experience in **data analysis** and **business intelligence**.  
-My goal is to bridge the gap between behavioral understanding and data-driven decision-making — creating solutions that are both analytically solid and human-centered.
-
----
-
-### 💬 Contact
-
-📧 **Email:** gaetanorizzo@yahoo.com  
-🔗 **LinkedIn:** [linkedin.com/in/gaetano-rizzo](linkedin.com/in/gaetano-rizzo)
-
+![SQL](https://img.shields.io/badge/SQL-Data%20Analysis-blue)
+![Python](https://img.shields.io/badge/Python-Pandas%20%7C%20EDA-green)
+![Power BI](https://img.shields.io/badge/Power%20BI-Dashboarding-yellow)
+![Excel](https://img.shields.io/badge/Excel-Power%20Query%20%7C%20Power%20Pivot-brightgreen)
+![Looker Studio](https://img.shields.io/badge/Looker%20Studio-BI%20Reporting-orange)
+![DAX](https://img.shields.io/badge/DAX-Measures%20%7C%20KPIs-purple)
 
 ---
 
-## 🇮🇹 Versione Italiana
+## Featured Projects
 
-Benvenuto nel mio portfolio professionale!  
-Sono **Psicologo, Ph.D. in Scienze Cognitive e Data Analyst**, appassionato nello studio dei meccanismi decisionali e dei processi cognitivi attraverso l’analisi dei dati.  
-
-Questa repository raccoglie i miei progetti più rappresentativi in **data analytics**, **finanza comportamentale** e **business intelligence**, unendo rigore tecnico e prospettiva centrata sulla persona.
-
----
-
-### 🧰 Strumenti e Competenze
-
-**Linguaggi:** Python (Pandas, BeautifulSoup, Matplotlib), SQL (MySQL), DAX  
-**Business Intelligence:** Power BI, Excel Power Pivot, Looker Studio  
-**Data Modeling:** Schema concettuale, logico e fisico  
-**Analisi Comportamentale:** Bias cognitivi, Decision-making, Insight data-driven  
-**Competenze trasversali:** Rigore scientifico, Analisi critica, Comunicazione dei risultati
+| Project | Business Focus | Tools | Skills Demonstrated |
+|---|---|---|---|
+| [GR Behavioral Finance BI Solution](./GR_Behavioral_Finance_BI_Solution_%28PowerBI%29/) | Behavioral finance and retail investor analysis | Power BI, DAX, World Bank Data | Data modeling, KPI design, behavioral analytics, dashboard storytelling |
+| [Olist Marketplace Analytics](./Olist_Marketplace_%28PowerBI%29/) | E-commerce performance, logistics and customer experience | Power BI | Marketplace analytics, customer insights, BI reporting |
+| [GR Toys Data Warehouse](./GR_Toys_DW_%28SQL-Excel%29/) | Retail data warehouse and analytical reporting | MySQL, Excel | Relational modeling, SQL queries, analytical views, reporting |
+| [Amazon Shoes Scraper](./Amazon_Shoes_Scraper_%28Python%29/) | Competitive product analysis from online marketplace data | Python, Pandas, BeautifulSoup | Web scraping, data cleaning, exploratory analysis |
 
 ---
 
-📊 Sintesi Progetti
-| Progetto                              | Strumenti           | Dataset / Fonte           | Focus                           | Punti Chiave                               |
-| ------------------------------------- | ------------------- | ------------------------- | ------------------------------- | ------------------------------------------ |
-| **GR Behavioral Finance BI Solution** | Power BI            | FAR-Trans + World Bank    | Bias comportamentali • Economia | Misura bias e dashboard prototipo          |
-| **Olist Marketplace**                 | Power BI            | Olist E-Commerce Dataset  | Analisi vendite e logistica     | Acquisti • Pagamenti • Customer Experience |
-| **Amazon Shoes Scraper**              | Python              | Dati Amazon (it) scraped  | Analisi competitiva             | Prezzi e rating Geox vs competitor         |
-| **GR Toys DW**                        | SQL + Excel         | Dati retail sintetici     | Data Warehouse                  | Schema E/R + Query Analitiche              |
-| **Report Covid-19**                   | Python + Excel      | OWID + Ministero Salute   | Analisi pandemia e vaccini      | Analisi globale + report aziendale         |
-| **Dashboard Strutture Ricettive**     | Excel (Power Pivot) | Open Data Marche          | Turismo e ricettività           | Filtri interattivi per città e categoria   |
-| **AdventureWorks Sales Report**       | Looker Studio + SQL | AdventureWorksDW          | Analisi vendite e redditività   | Insight regionali e per categoria          |
-| **Sanremo Report**                    | Looker Studio       | Archivio Festival Sanremo | Analisi culturale               | 70+ edizioni • Artisti e canzoni           |
+## Full Project Index
+
+### Business Intelligence & Dashboarding
+
+#### [GR Behavioral Finance BI Solution](./GR_Behavioral_Finance_BI_Solution_%28PowerBI%29/)
+
+Power BI report exploring behavioral biases in retail investors using the FAR-Trans dataset and World Bank macroeconomic indicators.
+
+**Focus:** Behavioral finance · Investor behavior · Bias detection · Macroeconomic context  
+**Tools:** Power BI · DAX · Data modeling  
+**Value:** Demonstrates how business intelligence can be applied to behavioral finance and decision-making analysis.
 
 ---
 
-📂 Indice Progetti
+#### [Olist Marketplace Analytics](./Olist_Marketplace_%28PowerBI%29/)
 
-📈 [GR Behavioral Finance BI Solution (Power BI)](./GR_Behavioral_Finance_BI_Solution_(PowerBI)/)
-Analisi dei bias comportamentali negli investitori retail (FAR-Trans + World Bank).
+Business intelligence project focused on marketplace performance, purchases, logistics, payments and customer experience.
 
-🛒 [Olist Marketplace (Power BI)](./Olist_Marketplace_(PowerBI)/)
-Analisi marketplace: acquisti, logistica, pagamenti, customer experience.
-
-👠 [Amazon Shoes Scraper (Python)](/Amazon_Shoes_Scraper_(Python)/)
-Web scraping e analisi competitiva (Geox vs competitor) su Amazon.it.
-
-🧸 [GR Toys DW (SQL + Excel)](/GR_Toys_DW_(SQL-Excel)/)
-Data Warehouse MySQL completo: schema concettuale, logico, fisico + query analitiche.
-
-🧬 [Report Covid-19 (Python + Excel)](/Report_Covid19_(Python_Excel)/)
-Analisi globale (OWID) + caso italiano (Ministero della Salute).
-
-🏨 [Dashboard Strutture Ricettive (Excel)](/Dashboard_Strutture_Ricettive_(Excel)/)
-Dashboard interattiva per la Regione Marche, filtrabile per città e categoria.
-
-🚴 [AdventureWorks Sales Report (Looker Studio + SQL)](/AdventureWorks_Sales_Report_(LookerStudio+SQL)/)
-Report BI collegato al database AdventureWorksDW per analisi di vendite e profitti.
-
-🎵 [Sanremo Report (Looker Studio)](/Sanremo_Report_(LookerStudio)/)
-Analisi culturale su 70+ edizioni del Festival di Sanremo.
+**Focus:** E-commerce analytics · Customer experience · Logistics · Payments  
+**Tools:** Power BI  
+**Value:** Shows the ability to transform marketplace data into business-oriented KPIs and dashboard insights.
 
 ---
 
-### 📖 Chi Sono
+#### [AdventureWorks Sales Report](./AdventureWorks_Sales_Report_%28LookerStudio+SQL%29/)
 
-Unisco un background in **psicologia e neuroscienze cognitive** a una formazione solida in **data analysis** e **business intelligence**.  
-Il mio obiettivo è colmare il divario tra la comprensione del comportamento umano e le decisioni basate sui dati, sviluppando soluzioni rigorose e orientate alle persone.
+Looker Studio report connected to AdventureWorksDW for sales, profitability and category-level analysis.
 
----
-
-### 💬 Contatti
-
-📧 **Email:** gaetanorizzo@yahoo.com  
-🔗 **LinkedIn:** [linkedin.com/in/gaetano-rizzo](linkedin.com/in/gaetano-rizzo)
-
+**Focus:** Sales performance · Profitability · Regional insights · Product categories  
+**Tools:** Looker Studio · SQL  
+**Value:** Demonstrates SQL-connected reporting and commercial performance analysis.
 
 ---
 
-© 2025 Gaetano Rizzo – Behavioral & Data Analytics Portfolio
+#### [Sanremo Report](./Sanremo_Report_%28LookerStudio%29/)
+
+Data storytelling project based on historical data from more than 70 editions of the Sanremo Festival.
+
+**Focus:** Cultural analytics · Historical trends · Data storytelling  
+**Tools:** Looker Studio  
+**Value:** Shows how data visualization can be applied to non-business datasets while preserving analytical clarity.
+
+---
+
+### SQL, Data Modeling & Reporting
+
+#### [GR Toys Data Warehouse](./GR_Toys_DW_%28SQL-Excel%29/)
+
+End-to-end data warehouse project based on synthetic retail data, including conceptual, logical and physical modeling.
+
+**Focus:** Data warehouse design · Relational modeling · Analytical queries · Reporting  
+**Tools:** MySQL · Excel  
+**Value:** Demonstrates SQL, schema design, analytical views and reporting logic for retail analytics.
+
+---
+
+### Python & Data Collection
+
+#### [Amazon Shoes Scraper](./Amazon_Shoes_Scraper_%28Python%29/)
+
+Python project for collecting and analyzing product data from Amazon.it, focused on competitive analysis between Geox and other brands.
+
+**Focus:** Web scraping · Competitive analysis · Product analytics · Price and rating comparison  
+**Tools:** Python · Pandas · BeautifulSoup  
+**Value:** Demonstrates data collection, cleaning and exploratory analysis from online marketplace data.
+
+---
+
+#### [Report Covid-19](./Report_Covid19_%28Python_Excel%29/)
+
+Data analysis project combining global COVID-19 data from Our World in Data and Italian public health data.
+
+**Focus:** Epidemiological trends · Vaccination analysis · Public health reporting  
+**Tools:** Python · Excel  
+**Value:** Shows the ability to analyze complex public datasets and communicate trends through analytical reporting.
+
+---
+
+### Excel Reporting
+
+#### [Dashboard Strutture Ricettive](./Dashboard_Strutture_Ricettive_%28Excel%29/)
+
+Interactive Excel dashboard based on Marche Region hospitality open data, allowing users to explore facilities by city and category.
+
+**Focus:** Tourism analytics · Hospitality reporting · Interactive filtering · Data cleaning  
+**Tools:** Excel · Power Query · Power Pivot  
+**Value:** Demonstrates advanced Excel reporting, semantic modeling and user-oriented dashboard design.
+
+---
+
+## Why This Portfolio
+
+This portfolio is designed to demonstrate my ability to work across the full analytics workflow:
+
+- understanding the analytical or business question;
+- cleaning and structuring raw data;
+- building data models and analytical logic;
+- designing dashboards and reports;
+- extracting and communicating insights;
+- translating complex information into clear outputs for technical and non-technical stakeholders.
+
+My background in **psychology and cognitive sciences** adds a distinctive perspective to data analysis, especially in projects related to **behavioral patterns, decision-making, customer behavior and data-driven interpretation of human actions**.
+
+---
+
+## Repository Structure
+
+```text
+DATA_ANALYST_PORTFOLIO_GAETANO_RIZZO/
+│
+├── GR_Behavioral_Finance_BI_Solution_(PowerBI)/
+├── Olist_Marketplace_(PowerBI)/
+├── Amazon_Shoes_Scraper_(Python)/
+├── GR_Toys_DW_(SQL-Excel)/
+├── Report_Covid19_(Python_Excel)/
+├── Dashboard_Strutture_Ricettive_(Excel)/
+├── AdventureWorks_Sales_Report_(LookerStudio+SQL)/
+└── Sanremo_Report_(LookerStudio)/
+```
+
+---
+
+## Project Documentation Standard
+
+Each project is progressively being documented using a consistent structure:
+
+- business or analytical question;
+- dataset and data source;
+- tools used;
+- workflow;
+- key insights;
+- dashboard or output preview;
+- skills demonstrated;
+- limitations and next steps.
+
+This structure is intended to make each project easy to understand for recruiters, hiring managers and technical reviewers.
+
+---
+
+## Next Improvements
+
+Planned improvements include:
+
+- adding dashboard preview images for each project;
+- standardizing all project-level README files;
+- documenting key business questions and insights for each project;
+- adding clearer repository-level navigation;
+- improving project screenshots and visual storytelling;
+- separating code, datasets, reports and assets into cleaner folder structures.
+
+---
+
+## Disclaimer
+
+This portfolio is intended for educational and professional presentation purposes.  
+Datasets and third-party materials belong to their respective owners and are used only for learning, analysis and portfolio demonstration.
+
+---
+
+## Contact
+
+**Email:** gaetanorizzo@yahoo.com  
+**LinkedIn:** [linkedin.com/in/gaetano-rizzo](https://www.linkedin.com/in/gaetano-rizzo)
+
+---
+
+© 2026 Gaetano Rizzo
