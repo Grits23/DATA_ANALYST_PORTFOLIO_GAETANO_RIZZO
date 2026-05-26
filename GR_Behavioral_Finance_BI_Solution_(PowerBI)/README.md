@@ -45,7 +45,7 @@ The report focuses on four behavioral bias indicators.
 The indicators were operationalized through custom DAX measures.  
 For the technical documentation, see:
 
-[View DAX Measures Documentation](./docs/dax-measures.md)
+[View DAX Measures Documentation](./docs/dax_measures.md)
 
 ---
 
@@ -174,7 +174,7 @@ The report allows users to:
 | [`README.md`](./README.md) | Main project documentation | Start here to understand the project goals, dataset, workflow and outputs |
 | [`GR_Behavioral_Finance_BI_Solution.pbix`](./GR_Behavioral_Finance_BI_Solution.pbix) | Interactive Power BI report developed for the project | Download and open with **Power BI Desktop** |
 | [`PDF_CAPSTONE_Gaetano_Rizzo.pdf`](./PDF_CAPSTONE_Gaetano_Rizzo.pdf) | Static PDF version/export of the final capstone project | Open this file for a quick overview of the dashboard and project presentation |
-| [`docs/dax-measures.md`](./docs/dax-measures.md) | Technical documentation of the DAX measures used to calculate behavioral bias indicators | Review the logic behind Disposition Bias, Overtrading Bias, Herding Bias and Home Bias |
+| [`docs/dax_measures.md`](./docs/dax_measures.md) | Technical documentation of the DAX measures used to calculate behavioral bias indicators | Review the logic behind Disposition Bias, Overtrading Bias, Herding Bias and Home Bias |
 
 ---
 
@@ -184,7 +184,7 @@ The report allows users to:
 2. Download [`GR_Behavioral_Finance_BI_Solution.pbix`](./GR_Behavioral_Finance_BI_Solution.pbix).
 3. Open the file with **Power BI Desktop** to explore the dashboard interactively.
 4. Open [`PDF_CAPSTONE_Gaetano_Rizzo.pdf`](./PDF_CAPSTONE_Gaetano_Rizzo.pdf) to review the static version of the final report.
-5. Read [`docs/dax-measures.md`](./docs/dax-measures.md) to understand how the behavioral bias indicators were calculated.
+5. Read [`docs/dax_measures.md`](./docs/dax_measures.md) to understand how the behavioral bias indicators were calculated.
 
 ---
 
