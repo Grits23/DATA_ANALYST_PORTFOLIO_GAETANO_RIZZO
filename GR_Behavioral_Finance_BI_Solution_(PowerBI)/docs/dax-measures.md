@@ -38,8 +38,8 @@ RETURN
     ( GainSellRatio - LossSellRatio ) * 100
 
 ```
-
-```Normalized Score:
+Normalized Score:
+```
 Disposition Bias = 
 VAR raw = [DispositionEffect]   -- valori da –100 a +100
 RETURN
@@ -79,8 +79,8 @@ VAR MediaGlobale =
 RETURN DIVIDE(TxPerEuro, MediaGlobale)*100
 
 ```
-
-```Normalized Score
+Normalized Score:
+```
 Overtrading Bias = 
 VAR Curr = [Overtrading]  -- valore del cliente nel contesto corrente
 VAR Tbl =
@@ -134,8 +134,8 @@ VAR TotalTx = COUNTROWS( transactions )
 RETURN DIVIDE( TxTop10, TotalTx ) *100
 
 ```
-
-```Normalized Score:
+Normalized Score:
+```
 Herding Bias = 
  VAR p   = MAX ( 0, [HerdingScore] )
         VAR p01 = IF ( p > 1, DIVIDE ( p, 100 ), p )
@@ -172,8 +172,8 @@ VAR InvestimentiTotali = SUM(transactions[totalValue])
 RETURN DIVIDE(InvestimentiDomestici, InvestimentiTotali) * 100
 
 ```
-
-```Normalized Score: 
+Normalized Score: 
+```
 Home Bias = 
 VAR p   = [HomeBiasPercent]
 VAR p01 = IF ( p > 1, DIVIDE ( p, 100 ), p )
