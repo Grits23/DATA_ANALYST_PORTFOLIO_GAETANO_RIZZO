@@ -218,7 +218,7 @@ These views are designed to be imported into Excel and used as reporting tables 
 
 The project includes an Excel workbook containing the final reporting layer:
 
-[`NOME_FILE_EXCEL.xlsx`](./NOME_FILE_EXCEL.xlsx)
+[`GR_Toys_Semantic_Model_Views_Dashboard.xlsx`](./GR_Toys_Semantic_Model_Views_Dashboard.xlsx)
 
 The Excel file includes:
 
