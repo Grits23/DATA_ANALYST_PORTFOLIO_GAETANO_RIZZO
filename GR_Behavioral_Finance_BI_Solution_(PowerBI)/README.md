@@ -249,29 +249,6 @@ Possible future improvements include:
 
 ---
 
-## Suggested Future Folder Structure
-
-The project could be progressively reorganized as follows:
-
-```text
-GR_Behavioral_Finance_BI_Solution_(PowerBI)/
-│
-├── README.md
-├── GR_Behavioral_Finance_BI_Solution.pbix
-├── PDF_CAPSTONE_Gaetano_Rizzo.pdf
-│
-├── docs/
-│   └── dax_measures.md
-│
-└── assets/
-    ├── overview-page.png
-    ├── bias-comparison.png
-    ├── customer-profile.png
-    └── data-model.png
-```
-
----
-
 ## Disclaimer
 
 This project is intended for educational and professional portfolio purposes only.
